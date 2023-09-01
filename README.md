@@ -1,5 +1,6 @@
 # ruina-wiki-repository
-# 废都物语 Wiki
+# 废都物语 Wiki 
+## 为了不迷路，欢迎来[仓库](https://github.com/Xenolies/ruina-wiki-repository)点点 star⭐
 
 ### 提交 pr 指南
 
