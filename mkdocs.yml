@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: Ruina Wiki
+theme: windmill
+use_directory_urls: false
+
+nav:
+  - 首页: index.md
+  - 作者设定集:
+    - 设定 日文原版: 
+      - 概要: 作者设定集/设定 日文原版/概要.md
+      - ネス公国: 作者设定集/设定 日文原版/ネス公国.md
+      - 地理と生活: 作者设定集/设定 日文原版/地理と生活.md
+      - 歴史: 作者设定集/设定 日文原版/歴史.md
+      - 騎士と貴族: 作者设定集/设定 日文原版/騎士と貴族.md
