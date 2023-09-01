@@ -4,6 +4,7 @@ use_directory_urls: false
 
 nav:
   - 首页: index.md
+  - 更新记录: 更新记录.md
   - 作者设定集:
     - 日文原版: 
       - 概要: 作者设定集/日文原版/概要.md
