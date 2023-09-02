@@ -1,8 +1,17 @@
 site_name: Ruina Wiki
-
+site_author: 'Xenolies'
 theme:
   name: material
-
+  logo: img/logo.png # logo
+  favicon: img/favicon.ico  # favicon
+  features:
+    - navigation.sections # nav节点缩进
+    - navigation.expand # 不折叠左侧nav节点
+    - navigation.top # 一键回顶部    
+#d6c7b5
+markdown_extensions:
+  - tables
+  - footnotes
 use_directory_urls: true
 
 nav:
