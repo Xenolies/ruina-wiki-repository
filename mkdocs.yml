@@ -12,6 +12,9 @@ theme:
 markdown_extensions:
   - tables
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 use_directory_urls: true
 
 nav:
@@ -31,3 +34,5 @@ nav:
       - 地理与生活: 作者设定集/贴吧汉化版/地理与生活.md
       - 历史: 作者设定集/贴吧汉化版/历史.md
       - 骑士与贵族: 作者设定集/贴吧汉化版/骑士与贵族.md
+  - 游戏内资料整理:
+    - 冒险手册 书籍: 游戏内资料整理/冒险手册_书籍/冒险手册_书籍.md
